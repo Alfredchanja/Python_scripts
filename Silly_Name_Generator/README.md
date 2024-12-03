@@ -5,3 +5,4 @@ The goal is to:
 - Practice programming with python using projects.
 - Practice coding styles.
 - Build projects.
+- Practice commiting my projects.
